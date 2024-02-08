@@ -1,0 +1,4 @@
+[package]
+name = "scratch"
+version = "1.0.7"
+publish = false
